@@ -1,7 +1,13 @@
 {
-  "name": "jsUtils",
+  "name": "@bennyplan/js_utils",
   "private": false,
+  "description": "js utility functions",
   "version": "0.1.0",
+  "repository": { 
+    "type": "git",
+    "url": "git+https://github.com/coolbycool1/jsUtils"
+  },
+
   "type": "module",
   "types": "lib/main.d.ts",
   "main": "dist/jsUtils.cjs",
